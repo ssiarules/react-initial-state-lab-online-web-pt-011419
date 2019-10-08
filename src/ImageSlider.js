@@ -19,3 +19,5 @@ export default class ImageSlider extends Component{
     );
   }
 }
+
+export default ImageSlider;
