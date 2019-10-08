@@ -13,7 +13,7 @@ import React, {Component} from 'react';
   render(){
     return(
       <div className="bomb">
-        {(this.state.secondsLeft > 0) ? `${this.state.secondsLeft}seconds left before I go boom!` : 'Boom!' }
+        {(this.state.secondsLeft > 0) ? `${this.state.secondsLeft} seconds left before I go boom!` : 'Boom!' }
 
       </div>
     );
