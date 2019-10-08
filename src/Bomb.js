@@ -1,5 +1,5 @@
 // your Bomb code here!
-import React, {component} from 'react';
+import React, {Component} from 'react';
 
  class Bomb extends Component{
   constructor(props){
