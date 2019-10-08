@@ -12,5 +12,3 @@ export default class Bomb extends Component{
 
 
 }
-
-
