@@ -16,7 +16,6 @@ export default class ImageSlider extends Component{
         <div className="slider">
           I am on slide {this.state.currentSlideIndex}
         </div>
-    )
+    );
   }
-
 }
